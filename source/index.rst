@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ================================================
-使用Gitee + Read the Docs搭建文档
+Fangible-V2-Api文档
 ================================================
 
 .. toctree::
