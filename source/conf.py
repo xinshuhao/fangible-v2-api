@@ -46,9 +46,9 @@ source_suffix = ['.rst','.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Gitee-Read-the-Docs' 
-copyright = u'2019, zhyantao'
-author = u'Zhang'
+project = u'Fangible-Service-Api-Docs'
+copyright = u'2021, xinshuhao'
+author = u'xin'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
